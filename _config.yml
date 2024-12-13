@@ -1,0 +1,6 @@
+title: Chakarock
+description: A Jekyll site for Chakarock
+author: Joseph Beaman
+baseurl: ""
+url: "https://flukejb.github.io"
+theme: minima # You can change this to another Jekyll theme

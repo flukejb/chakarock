@@ -1,2 +1,2 @@
 # chakarock
-I github hosted basic website for chakarock.com
+A github hosted basic website for chakarock.com

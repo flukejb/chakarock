@@ -1,6 +1,10 @@
 # Chakarock Website
 A github hosted basic website for chakarock.com
 
+## Requirements
+   - Ruby installed
+   - Jekyll installed
+
 ## How to install
 
 1. Download or clone the repo
